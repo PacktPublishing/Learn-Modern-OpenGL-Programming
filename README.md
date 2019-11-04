@@ -1,5 +1,3 @@
-# Learn-Modern-OpenGL-Programming
-Code repository for Learn Modern OpenGL Programming, Published by Packt
 # Learn Modern OpenGL Programming
 This is the code repository for [Learn Modern OpenGL Programming](https://www.packtpub.com/application-development/hands-deep-learning-tensorflow-20-video?utm_source=github&utm_medium=repository&utm_campaign=9781789951707), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
