@@ -1,0 +1,24 @@
+These instructions are for replacing the library files for GLFW and GLEW with versions
+built for Visual Studio 2017 (VS2017).
+
+The ZIP file containing the files is "GLFW_GLEW_VS2017_x86.zip"
+
+Included in this zip file "GLFW_GLEW_VS2017.zip" are GLFW and GLEW libraries built with Visual Studio 2017 
+along with their header files. The original code listings are built for Visual Studio 2013. If you have 
+converted the projects to VS2017 and are therefore using VS2017 to build the code samples included
+with the course then these instructions apply to you.
+
+
+INSTRUCTIONS!
+-------------
+
+Replace these files with the files under "common" in the same folders Since there is a "common" folder
+for each lesson that has a code listing you will need to do this for each of them. 
+
+Replace this "GL" folder and all its contents with the same folder "common/includes/GL"
+Replace this "GLFW" folder and all its contents with the same folder "common/includes/GLFW".
+Replace this folder "lib" and all its contents with the same folder under "common/lib".
+
+
+If you are using Visual Studio 2015 then you will have to build GLFW and GLEW separately 
+for that compiler version.
